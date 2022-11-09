@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/presentation/color_manager.dart';
 
 class MyApp extends StatefulWidget {
 // named contructor
@@ -20,4 +21,4 @@ class _MyAppState extends State<MyApp> {
       
     );
   }
-}
+} 
